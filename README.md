@@ -1,4 +1,4 @@
 Please see P1.ipynb for writeup embedded into the jupyter notebook.
 
-Some filtering values and line calculations where referenced from the following github repo:
+Some filtering values, line calculations and simple helper functions where referenced from the following github repo:
 https://github.com/naokishibuya/car-finding-lane-lines
